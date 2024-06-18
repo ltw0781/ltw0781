@@ -2,3 +2,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltw0781)](https://github.com/ltw0781/github-readme-stats)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltw0781&hide=contribs,prs)
